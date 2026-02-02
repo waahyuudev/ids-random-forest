@@ -1,0 +1,4 @@
+keterangan log.
+
+conn.log: Berisi 100 baris tambahan (40 baris Port Scanning dengan status REJ dan 60 baris awal koneksi TLS DDoS dengan status S0).
+ssl.log: Berisi 60 baris kegagalan jabat tangan SSL (established = F) untuk melatih deteksi DDoS pada layer enkripsi

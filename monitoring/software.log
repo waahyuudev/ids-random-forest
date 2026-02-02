@@ -1,0 +1,12 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	software
+#open	2026-02-02-14-44-15
+#fields	ts	host	host_p	software_type	name	version.major	version.minor	version.minor2	version.minor3	version.addl	unparsed_version
+#types	time	addr	port	enum	string	count	count	count	count	string	string
+1770018254.838689	192.168.19.61	-	HTTP::BROWSER	Chrome	144	0	0	0	-	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+1770018255.258826	192.168.201.160	80	HTTP::SERVER	Apache	-	-	-	-	-	Apache
+1770018281.405469	192.168.201.160	22	SSH::SERVER	OpenSSH	9	2	-	-	p1	OpenSSH_9.2p1 Debian-2+deb12u3
+#close	2026-02-02-14-47-16

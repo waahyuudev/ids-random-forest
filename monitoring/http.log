@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2026-02-02-14-44-09
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1770018249.912300	CKdJpi3T4o5mIFWRTb	192.168.7.14	53582	192.168.19.61	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1985	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FRof0Z7cd3HFZuIZc	-	text/plain
+1770018254.838689	CoKTWJ2CTjPLhC02tg	192.168.19.61	54577	192.168.201.160	80	1	GET	account.accurate.test1	/manage	-	1.1	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	-	0	147020	200	OK	-	-	(empty)	-	-	-	-	-	-	FS9jGf4R9LEJhMqbo1	-	text/html
+#close	2026-02-02-14-47-16

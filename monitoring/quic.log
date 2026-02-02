@@ -1,0 +1,23 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	quic
+#open	2026-02-02-14-45-15
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	client_initial_dcid	client_scid	server_scid	server_name	client_protocol	history
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	string
+1770018254.821716	C9OSvg3qtLrbODqG1k	192.168.19.61	54314	74.125.68.95	443	1	d985baa2ef797987	(empty)	f985baa2ef797987	fonts.googleapis.com	h3	IISZiioIisIhoHOoO
+1770018254.821147	CfrbDtEkJxGwx4IIj	192.168.19.61	59954	142.251.10.136	443	1	5ef8d28b61e5d3a7	(empty)	fef8d28b61e5d3a7	safebrowsing.google.com	h3	IISZiiisIoHhohHHOOooO
+1770018255.091140	CTuKON3benCnvYJNZ7	192.168.19.61	52101	142.250.4.94	443	1	4d4a5d0f997bb6c9	(empty)	ed4a5d0f997bb6c9	fonts.gstatic.com	h3	IIISZiiishooHOHoO
+1770018255.275170	Ce8Xcc2RuLxOmeJAH1	192.168.19.61	64367	142.250.4.94	443	1	e7ea624c58739787	(empty)	e7ea624c58739787	fonts.gstatic.com	h3	IISZiiishooHOHoO
+1770018268.868661	C4TdaK20aU4yRMcE2g	192.168.19.61	61024	172.217.70.113	443	1	4e49710263c96e40	(empty)	ee49710263c96e40	clients4.google.com	h3	IISZiiishooHOOHOooO
+1770018325.649357	CF6fhNq6FjeqbaE7b	192.168.19.61	52245	172.217.70.113	443	1	d461156f0e72740a	(empty)	f461156f0e72740a	clients4.google.com	h3	IISZiishooIHOOoOo
+1770018337.931918	CeB9fN3nTkYHXhuQ4g	192.168.19.61	56734	142.251.10.95	443	1	d02a6645db939591	(empty)	f02a6645db939591	signaler-pa.clients6.google.com	h3	IISZZiisIIooihoHOHO
+1770018323.133581	Ca8pPg39ftSNolE159	192.168.19.61	62937	74.125.130.101	443	1	339f75e7e1412c94	(empty)	f39f75e7e1412c94	gemini.google.com	h3	IISZiiishooHOOOooOo
+1770018428.520239	CNpQKkRAA8jcE0RLb	192.168.19.61	62310	172.217.194.101	443	1	e48a90dbb96a8f1c	(empty)	e48a90dbb96a8f1c	gemini.google.com	h3	IISZiiishooHOOOooOo
+1770018415.464634	CRhfK7KiauyYQmf3j	192.168.19.61	60755	35.186.224.28	443	1	97d9ec049af55718	(empty)	f7d9ec049af55718	gew4-spclient.spotify.com	h3	IISiiishhhoHHOoOo
+1770018377.167731	CqQ7aw1vlSl1NBZjdf	192.168.19.61	62166	172.217.194.101	443	1	828566a1cdbbdf81	(empty)	e28566a1cdbbdf81	gemini.google.com	h3	IISZiioIoisIHhHOOOOoOoooOoO
+1770018377.084508	CwAuqw2sRAQGs59Org	192.168.19.61	49418	216.239.34.181	443	1	b19bd20c49e0b8b5	(empty)	f19bd20c49e0b8b5	analytics.google.com	h3	IISZiiishooHOOOoOo
+1770018320.436169	Cr8gm51lVrcVfpvKW6	192.168.19.61	52960	142.251.10.102	443	1	f65c9166be79683e	(empty)	f65c9166be79683e	play.google.com	h3	IISZiiishooHOOOoOoOoOo
+1770018377.093539	CPi82r2eI2rtxRH1Sl	192.168.19.61	53306	74.125.130.139	443	1	f2cfd326252c88d6	(empty)	f2cfd326252c88d6	www.google-analytics.com	h3	IISZiiishooHOOOoOoOo
+#close	2026-02-02-14-47-16

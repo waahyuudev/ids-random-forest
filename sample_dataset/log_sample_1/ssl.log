@@ -1,0 +1,68 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssl
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	cipher	curve	server_name	resumed	last_alert	next_protocol	established	ssl_history	cert_chain_fps	client_cert_chain_fps	sni_matches_cert
+#types	time	string	addr	port	addr	port	string	string	string	string	bool	string	string	bool	string	vector[string]	vector[string]	bool
+1769822945.707881	C_DDOS_0	192.168.100.200	61000	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.727881	C_DDOS_1	192.168.100.200	61001	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.747881	C_DDOS_2	192.168.100.200	61002	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.767881	C_DDOS_3	192.168.100.200	61003	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.787881	C_DDOS_4	192.168.100.200	61004	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.807881	C_DDOS_5	192.168.100.200	61005	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.827881	C_DDOS_6	192.168.100.200	61006	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.847881	C_DDOS_7	192.168.100.200	61007	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.867881	C_DDOS_8	192.168.100.200	61008	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.887881	C_DDOS_9	192.168.100.200	61009	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.907881	C_DDOS_10	192.168.100.200	61010	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.927881	C_DDOS_11	192.168.100.200	61011	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.947881	C_DDOS_12	192.168.100.200	61012	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.967881	C_DDOS_13	192.168.100.200	61013	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822945.987881	C_DDOS_14	192.168.100.200	61014	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.007881	C_DDOS_15	192.168.100.200	61015	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.027881	C_DDOS_16	192.168.100.200	61016	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.047881	C_DDOS_17	192.168.100.200	61017	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.067881	C_DDOS_18	192.168.100.200	61018	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.087881	C_DDOS_19	192.168.100.200	61019	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.107881	C_DDOS_20	192.168.100.200	61020	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.127881	C_DDOS_21	192.168.100.200	61021	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.147881	C_DDOS_22	192.168.100.200	61022	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.167881	C_DDOS_23	192.168.100.200	61023	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.187881	C_DDOS_24	192.168.100.200	61024	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.207881	C_DDOS_25	192.168.100.200	61025	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.227881	C_DDOS_26	192.168.100.200	61026	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.247881	C_DDOS_27	192.168.100.200	61027	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.267881	C_DDOS_28	192.168.100.200	61028	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.287881	C_DDOS_29	192.168.100.200	61029	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.307881	C_DDOS_30	192.168.100.200	61030	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.327881	C_DDOS_31	192.168.100.200	61031	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.347881	C_DDOS_32	192.168.100.200	61032	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.367881	C_DDOS_33	192.168.100.200	61033	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.387881	C_DDOS_34	192.168.100.200	61034	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.407881	C_DDOS_35	192.168.100.200	61035	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.427881	C_DDOS_36	192.168.100.200	61036	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.447881	C_DDOS_37	192.168.100.200	61037	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.467881	C_DDOS_38	192.168.100.200	61038	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.487881	C_DDOS_39	192.168.100.200	61039	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.507881	C_DDOS_40	192.168.100.200	61040	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.527881	C_DDOS_41	192.168.100.200	61041	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.547881	C_DDOS_42	192.168.100.200	61042	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.567881	C_DDOS_43	192.168.100.200	61043	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.587881	C_DDOS_44	192.168.100.200	61044	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.607881	C_DDOS_45	192.168.100.200	61045	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.627881	C_DDOS_46	192.168.100.200	61046	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.647881	C_DDOS_47	192.168.100.200	61047	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.667881	C_DDOS_48	192.168.100.200	61048	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.687881	C_DDOS_49	192.168.100.200	61049	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.707881	C_DDOS_50	192.168.100.200	61050	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.727881	C_DDOS_51	192.168.100.200	61051	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.747881	C_DDOS_52	192.168.100.200	61052	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.767881	C_DDOS_53	192.168.100.200	61053	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.787881	C_DDOS_54	192.168.100.200	61054	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.807881	C_DDOS_55	192.168.100.200	61055	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.827881	C_DDOS_56	192.168.100.200	61056	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.847881	C_DDOS_57	192.168.100.200	61057	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.867881	C_DDOS_58	192.168.100.200	61058	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+1769822946.887881	C_DDOS_59	192.168.100.200	61059	202.78.195.250	443	-	-	-	account.accurate.id	F	-	-	F	Cs	-	-	-
+#close	2026-02-02-08-12-57
