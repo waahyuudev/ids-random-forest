@@ -3,8 +3,12 @@
 #empty_field	(empty)
 #unset_field	-
 #path	known_services
-#open	2026-02-02-15-30-27
+#open	2026-02-20-10-34-34
 #fields	ts	host	port_num	port_proto	service
 #types	time	addr	port	enum	set[string]
-1770020604.053525	::1	8503	tcp	(empty)
-#close	2026-02-02-15-35-33
+1771558470.550007	192.168.201.58	443	tcp	SSL
+1771558480.549349	192.168.18.1	53	udp	DNS
+1771558480.896938	192.168.18.180	5353	udp	DNS
+1771558492.866570	192.168.18.180	7000	tcp	HTTP
+1771558612.203819	192.168.18.1	67	udp	DHCP
+#close	2026-02-20-10-40-27

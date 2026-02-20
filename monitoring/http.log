@@ -3,9 +3,19 @@
 #empty_field	(empty)
 #unset_field	-
 #path	http
-#open	2026-02-02-14-44-09
+#open	2026-02-20-10-34-52
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
 #types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
-1770018249.912300	CKdJpi3T4o5mIFWRTb	192.168.7.14	53582	192.168.19.61	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1985	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FRof0Z7cd3HFZuIZc	-	text/plain
-1770018254.838689	CoKTWJ2CTjPLhC02tg	192.168.19.61	54577	192.168.201.160	80	1	GET	account.accurate.test1	/manage	-	1.1	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36	-	0	147020	200	OK	-	-	(empty)	-	-	-	-	-	-	FS9jGf4R9LEJhMqbo1	-	text/html
-#close	2026-02-02-14-47-16
+1771558492.866570	C4NnTD3iz4f4sa5RPa	192.168.6.29	51480	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FeQqXbkyZKY3qnaQa	-	text/plain
+1771558519.913909	CNwxUw3eelUFSrSnSc	192.168.6.29	51486	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FUWidm4aSqjHjSXyj	-	text/plain
+1771558544.325569	CAPfk241FLwiYbThgh	192.168.18.98	60116	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1946	0	<empty>	-	-	(empty)	-	-	-	-	-	-	F7kunJ1P3YyZvr8L7f	-	text/plain
+1771558586.072557	CDUn5n3Hw1X2YMIthe	192.168.18.78	60969	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1946	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FZMCNCNBAoCVbahp2	-	text/plain
+1771558586.349539	CxBh4z0L9DTiVvIdd	192.168.18.78	60973	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	F57Rcsn7Qt4afg6tl	-	text/plain
+1771558588.014853	CErzEP1W0BynFbkd5h	192.168.6.29	51505	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1944	0	<empty>	-	-	(empty)	-	-	-	-	-	-	F1900W1MYvF7RLiVWl	-	text/plain
+1771558624.812146	Cb5mcY1QhE9VT3FSXc	192.168.7.165	63821	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1946	0	<empty>	-	-	(empty)	-	-	-	-	-	-	F0hOO91xX5FVoR6gTk	-	text/plain
+1771558652.971399	CYIhCA3kFKqUv3WOo3	192.168.6.29	51525	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	F8oCac2lYLLgqME6Je	-	text/plain
+1771558660.260183	CtbmiD2oUsL9NHR9a7	192.168.18.98	60126	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1946	0	<empty>	-	-	(empty)	-	-	-	-	-	-	Flnlhu2YBsupBRATLa	-	text/plain
+1771558722.986994	CGvLnhif25Pu1d5Td	192.168.6.29	51541	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FZKgt9OUwzyVEQjE1	-	text/plain
+1771558751.897225	CquREFEJ7Y68xWVX6	192.168.7.182	59393	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1946	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FcCcz44R8fvtFhhfv1	-	text/plain
+1771558756.891323	CvDTht4qj34oRkBpH5	192.168.7.165	63832	192.168.18.180	7000	1	GET	-	/info?txtAirPlay&txtRAOP RTSP/1.	-	0.9	-	-	0	1945	0	<empty>	-	-	(empty)	-	-	-	-	-	-	FgoR6Y2OB3wBWcqFf3	-	text/plain
+#close	2026-02-20-10-40-27

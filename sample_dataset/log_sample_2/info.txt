@@ -1,0 +1,1 @@
+Proporsi data adalah 50% Normal, 25% Port Scanning, dan 25% TLS DDoS.

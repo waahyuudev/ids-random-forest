@@ -3,14 +3,21 @@
 #empty_field	(empty)
 #unset_field	-
 #path	weird
-#open	2026-02-02-15-16-05
+#open	2026-02-20-10-34-29
 #fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
 #types	time	string	addr	port	addr	port	string	string	bool	string	string
-1770020165.309546	Ce00uY2j2hNQCF2jog	::1	8501	::1	56625	bad_TCP_checksum	-	F	zeek	TCP
-1770020169.343235	-	127.0.0.1	0	127.0.0.1	0	bad_IP_checksum	-	F	zeek	IP
-1770020171.527244	CzgNqwHyZ9Dmu4Zg1	::1	8502	::1	56712	truncated_tcp_payload	-	F	zeek	TCP
-1770020186.888604	CO5zrPbApWL3aHtCe	192.168.19.61	61428	239.255.255.250	1900	bad_UDP_checksum	-	F	zeek	UDP
-1770020294.977969	CPqLVp2rFLwK5jAov7	::1	56745	::1	8503	truncated_tcp_payload	-	F	zeek	TCP
-1770020893.319990	CPrvVD43hSVNZamY02	127.0.0.1	5353	224.0.0.251	5353	bad_UDP_checksum	-	F	zeek	UDP
-1770021138.756541	COXzhL5MLok9v3iya	fe80::1	5353	fe80::1	5353	bad_UDP_checksum	-	F	zeek	UDP
-#close	2026-02-02-15-35-33
+1771558469.309854	C6IIdc1tyTNUc3MkSk	192.168.18.180	53083	142.251.154.119	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558471.086345	CtapRh2L3t5i3lhnGb	192.168.18.180	59327	142.251.10.139	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558471.538757	CUZ0h6Zv74r2Vt7Zf	192.168.18.180	52548	142.251.12.139	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558472.781594	CUtMyw1qGV8UOoELN6	192.168.18.180	49537	74.125.24.113	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558472.834543	C9cUxQ1Iio5Wy4cJm	192.168.18.180	52196	64.233.170.95	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558474.423154	CEkMKd4k3yvGJjQnSh	192.168.18.180	57086	64.233.170.95	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558474.567623	CQkJuaIPQgLIffL7a	192.168.18.180	58503	103.154.227.248	443	above_hole_data_without_any_acks	-	F	zeek	TCP
+1771558483.780723	CO9eDp3t3PmxQSLNr1	192.168.18.180	59248	37.77.186.162	443	window_recision	-	F	zeek	-
+1771558504.623163	CEArdgVNNVFM1CACa	192.168.18.180	59238	34.209.190.101	443	window_recision	-	F	zeek	-
+1771558530.839341	C47Pj948DIxmAT51Sa	192.168.18.180	61820	64.233.170.95	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558531.760298	CKRqMU11WThRZ7oSna	192.168.18.180	54030	142.251.10.102	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558652.410616	CairuRzdhydJmA7mi	192.168.18.180	59423	34.209.190.101	443	window_recision	-	F	zeek	-
+1771558744.827300	CuE6WM2a5muW8gAXAd	192.168.18.180	64952	157.240.208.60	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+1771558744.959306	C1sxeEnE9zCvZMpLg	192.168.18.180	55624	57.144.101.32	443	QUIC_spurious_short_header_packet_threshold_crossed	1	F	zeek	-
+#close	2026-02-20-10-40-27
